@@ -1,7 +1,12 @@
 NAMA: Zacky Muhammad Data <br>
 NIM: 43240450 <br>
 Kelas: SI-2024-KIP-P2 <br>
-----
+==
+Link Deepseek: 
+
+Note: Ini adalah tugas individu untuk mata kuliah Pemrograman Web Lanjut untuk Latihan Laravel
+dan untuk /vendor.zip untuk di ekstrak terlebih dahulu karena ada batas minimum dari githubnya
+--
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
