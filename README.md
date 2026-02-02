@@ -1,4 +1,4 @@
-### NAMA: Zacky Muhammad Data <br>
+NAMA: Zacky Muhammad Data <br>
 NIM: 43240450 <br>
 Kelas: SI-2024-KIP-P2 <br>
 ----
