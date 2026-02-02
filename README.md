@@ -2,7 +2,7 @@ NAMA: Zacky Muhammad Data <br>
 NIM: 43240450 <br>
 Kelas: SI-2024-KIP-P2 <br>
 ==
-Link Deepseek: 
+Link Deepseek: https://chat.deepseek.com/share/8ilshrjk7r9en1ziva
 
 Note: Ini adalah tugas individu untuk mata kuliah Pemrograman Web Lanjut untuk Latihan Laravel
 dan untuk /vendor.zip untuk di ekstrak terlebih dahulu karena ada batas minimum dari githubnya
